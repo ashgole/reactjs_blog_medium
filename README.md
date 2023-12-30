@@ -1,5 +1,5 @@
-last updated : 30-12-2023
-only creates new project nothing added...
+last updated : 30-12-2023 ,
+only created new project nothing added...
 
 # React + Vite
 
