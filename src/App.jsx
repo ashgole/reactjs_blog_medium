@@ -1,16 +1,20 @@
 import { Route, Routes, BrowserRouter } from "react-router-dom";
 
-import Home from "./components/0/home/Home";
-import About from "./components/0/about/About";
+import Contact from "./components/react-router-dom-example/contact/Contact";
+import About from "./components/react-router-dom-example/about/About";
+import Home from "./components/react-router-dom-example/home/Home";
 
 function App() {
   return (
+    <>
       <BrowserRouter>
         <Routes>
-          <Route path="/" exact element={<Home/>} />
-          <Route path="/about" element={<About/>} />
+          <Route path="/*" element={<Home />} />
+          <Route path="/about" element={<About />} />
+          <Route path="/contact" element={<Contact />} />
         </Routes>
       </BrowserRouter>
+    </>
   );
 }
 
