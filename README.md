@@ -1,3 +1,7 @@
+last updated : 31-12-2023 ,
+React Router DOM added...
+
+
 # ReactJS Blog Medium
 https://medium.com/@ashabb/list/ashabb-reactjs-blog-1b801185a1b5
 
@@ -16,9 +20,7 @@ Happy Reacting!
 
 `ReactJS` `Blog` `Code snippets` `Frontend` `Medium blog` `Hooks` `States` `API`
 
-***
-last updated : 31-12-2023 ,
-React Router DOM added...
+### Download and install
 
 ```
 cd medium_reactjs_blog
