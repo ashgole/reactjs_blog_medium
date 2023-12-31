@@ -1,5 +1,5 @@
 last updated : 31-12-2023 ,
-React Router DOM added...
+React Query added...
 
 
 # ReactJS Blog Medium
@@ -28,10 +28,17 @@ npm i
 npm run dev
 ```
 
-### 1. A Deep Dive into React Router DOM
+### 1. React Router DOM
 
 Medium : https://medium.com/@ashabb/a-deep-dive-into-react-router-dom-e523b0f85418
 
 Github : https://github.com/ashgole/reactjs_blog_medium/commit/45cbdba66569837c84d671ef0e5b95f47498cabc
+
+### 1. React Query
+
+Medium : https://medium.com/@ashabb/unraveling-the-power-of-react-query-a-comprehensive-guide-24b7d98f2fbf
+
+Github : https://github.com/ashgole/reactjs_blog_medium/commit/a44603e521ef5883fd70493559cf9ac1ec5fcf53
+
 
 ***
