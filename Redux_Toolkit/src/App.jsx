@@ -13,7 +13,7 @@ export default function App() {
     createRoutesFromElements(
       <Route path="/" element={<Layout />}>
         <Route
-          path="medium"
+          path="redux_toolkit"
           element={
             <>
               <Counter />
