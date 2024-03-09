@@ -32,13 +32,17 @@ npm run dev
 
 Medium : https://medium.com/@ashabb/a-deep-dive-into-react-router-dom-e523b0f85418
 
-Github : https://github.com/ashgole/reactjs_blog_medium/commit/45cbdba66569837c84d671ef0e5b95f47498cabc
-
-### 1. React Query
+### 2. React Query
 
 Medium : https://medium.com/@ashabb/unraveling-the-power-of-react-query-a-comprehensive-guide-24b7d98f2fbf
 
-Github : https://github.com/ashgole/reactjs_blog_medium/commit/a44603e521ef5883fd70493559cf9ac1ec5fcf53
+Github : https://github.com/ashgole/reactjs_blog_medium/tree/main/React_Query
+
+### 3. React Redux Toolkit
+
+Medium : https://medium.com/@ashabb/react-redux-toolkit-4121dce16842
+
+Github : https://github.com/ashgole/reactjs_blog_medium/tree/main/Redux_Toolkit
 
 
 ***
